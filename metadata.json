@@ -1,0 +1,6 @@
+{
+  "name": "Research with MXR",
+  "description": "Clinical trial extraction and literature synthesis platform for pharmacists and medical researchers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
